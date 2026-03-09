@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Jude 
 
-<!--
-**harbini/harbini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, simple websites for local businesses and side projects.
 
-Here are some ideas to get you started:
+What I do:
+- Static sites that load instantly (HTML/CSS/JavaScript)
+- Clean, mobile-friendly design
+- Python backends when you need more than a brochure site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Stack: HTML5, CSS3, JavaScript, Python, Git
+
+📫 Reach me: [your email or contact method]
